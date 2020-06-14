@@ -1,7 +1,7 @@
 # BreweryApp
 Beer BeerInventory BeerOrders Customer
 
-TastingRoom: Brewery will consume beerInventory for tastingRoom orders__
+TastingRoom: Brewery will consume beerInventory for tastingRoom orders <br/>
 Demand triggers inventory reduction
 inventory reduction triggers brewing of beer
 brewing will create inventory
