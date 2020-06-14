@@ -70,7 +70,10 @@ https://www.baeldung.com/intro-to-project-lombok<br/>
 # mapstruct
 https://www.baeldung.com/mapstruct<br/>
 
-
+# flyway
+https://martinfowler.com/articles/evodb.html<br/>
+https://medium.com/@ruxijitianu/database-version-control-liquibase-versus-flyway-9872d43ee5a4<br/>
+https://stackoverflow.com/questions/39044851/flyway-and-liquibase-together<br/>
 
 # Auto increment keys vs. UUID
 https://medium.com/@Mareks_082/auto-increment-keys-vs-uuid-a74d81f7476a<br/>
@@ -186,3 +189,49 @@ https://www.baeldung.com/introduction-to-wiremock<br/>
 # netflix
 https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a<br/>
 
+# Securing Application
+https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot<br/>
+https://snyk.io/<br/>
+https://docs.spring.io/spring-security/site/docs/5.0.x/reference/html/headers.html<br/>
+https://securityheaders.com/<br/>
+https://owasp.org/<br/>
+https://github.com/zaproxy/zaproxy<br/>
+https://medium.com/@marianfurdui/generate-a-java-keystore-from-lets-encrypt-for-java-web-spring-or-spring-boot-applications-bf07408158ef <br/>
+https://developer.okta.com/blog/2020/03/23/microservice-security-patterns#4-use-access-and-identity-tokens<br/>
+https://developer.okta.com/blog/2020/03/27/spring-oidc-logout-options<br/>
+https://developer.okta.com/docs/reference/rate-limits/<br/>
+https://www.baeldung.com/spring-bucket4j<br/>
+https://developer.okta.com/blog/2020/01/23/pkce-oauth2-spring-boot<br/>
+
+# KAfka
+https://developer.okta.com/blog/2020/01/22/kafka-microservices<br>
+
+# PASETO Tokens
+https://developer.okta.com/blog/2020/02/14/paseto-security-tokens-java<br/>
+
+# Documenting spring controller
+https://www.baeldung.com/spring-rest-openapi-documentation<br/>
+https://stackoverflow.com/questions/61346751/can-we-replace-swagger-ui-with-redoc-in-springdoc<br/>
+
+
+# building uisng github actions
+https://developer.okta.com/blog/2020/05/18/travis-ci-to-github-actions<br/>
+
+# code coverage
+https://codecov.io/<br/>
+https://codebeat.co/<br/>
+
+# sonar cloud
+https://sonarcloud.io/<br/>
+https://spotbugs.github.io/<br/>
+https://www.baeldung.com/pmd<br/>
+https://www.baeldung.com/checkstyle-java<br/>
+
+'
+# code documentation
+https://dzone.com/articles/best-practices-of-code-documentation-in-java<br/>
+https://www.jrebel.com/blog/tips-and-tricks-for-better-java-documentation<br/>
+https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html<br/>
+https://medium.com/@rhamedy/a-short-summary-of-java-coding-best-practices-31283d0167d3<br/>
+https://www.baeldung.com/javadoc<br/>
+https://www.baeldung.com/java-clean-code<br/>
