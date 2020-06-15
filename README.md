@@ -246,3 +246,10 @@ https://www.baeldung.com/java-clean-code<br/>
 https://opensource.guide/<br/>
 https://opensource.org/<br/>
 
+
+# Rules to live by for commit messages:
+
+    Don’t end your commit message with a period.<br/>
+    Keep your commit messages to 50 characters or less. Add extra detail in the extended description window if necessary. This is located just below the subject line.<br/>
+    Use active voice. For example, "add" instead of "added" and "merge" instead of "merged".<br/>
+    Think of your commit as expressing intent to introduce a change.<br/>
