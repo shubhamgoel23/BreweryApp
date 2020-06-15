@@ -241,3 +241,8 @@ https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html<br/>
 https://medium.com/@rhamedy/a-short-summary-of-java-coding-best-practices-31283d0167d3<br/>
 https://www.baeldung.com/javadoc<br/>
 https://www.baeldung.com/java-clean-code<br/>
+
+# Open Source Guides
+https://opensource.guide/<br/>
+https://opensource.org/<br/>
+
