@@ -75,6 +75,12 @@ https://martinfowler.com/articles/evodb.html<br/>
 https://medium.com/@ruxijitianu/database-version-control-liquibase-versus-flyway-9872d43ee5a4<br/>
 https://stackoverflow.com/questions/39044851/flyway-and-liquibase-together<br/>
 
+# dbcp connection pool
+https://commons.apache.org/proper/commons-dbcp/<br/>
+https://www.baeldung.com/spring-boot-tomcat-connection-pool<br/>
+https://www.baeldung.com/hikaricp<br/>
+
+
 # Auto increment keys vs. UUID
 https://medium.com/@Mareks_082/auto-increment-keys-vs-uuid-a74d81f7476a<br/>
 https://www.baeldung.com/hibernate-identifiers<br/>
