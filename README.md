@@ -59,6 +59,49 @@ https://github.com/lyndseypadget/semflow<br/>
 # to close issue on github
 commit <Closes #1><br/>
 
+# https://dependabot.com/
+Automated dependency updates<br/>
+
+# manage unused dependency 
+https://www.baeldung.com/maven-unused-dependencies<br/>
+https://www.baeldung.com/maven-dependency-latest-version<br/>
+
+# License Maven Plugin
+https://www.mojohaus.org/license-maven-plugin/examples/example-add-license.html<br/>
+
+# Publishing a Maven Site to GitHub Pages with Travis-CI
+https://blog.lanyonm.org/articles/2015/12/19/publish-maven-site-github-pages-travis-ci.html<br/>
+Apache Maven Site Plugin<br/>
+https://maven.apache.org/plugins/maven-site-plugin/index.html<br/>
+
+# flatten-maven-plugin
+https://www.mojohaus.org/flatten-maven-plugin/examples/example-simple-project.html<br/>
+https://www.mojohaus.org/flatten-maven-plugin/<br/>
+https://www.mojohaus.org/mojo-parent/plugin-management.html<br/>
+https://maven.apache.org/pom.html<br/>
+
+
+# OSS Scan
+https://metacpan.org/pod/File::OSS::Scan<br/>
+https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools<br/>
+
+# Security Testing and scanning
+https://www.javacodegeeks.com/2019/04/microservices-for-java-developers-security-testing-scanning.html<br/>
+https://www.springboottutorial.com/web-application-security-owasp-top-ten<br/>
+https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools<br/>
+
+# Snyk 
+https://app.snyk.io/signup<br/>
+https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot<br/>
+
+# LGTM
+https://lgtm.com/<br/>
+
+
+# owasp dependency track and dependecy check for finding vulnerbilities
+https://nvd.nist.gov/
+https://blog.lanyonm.org/articles/2015/12/22/continuous-security-owasp-java-vulnerability-check.html
+
 # Why you should care about copyright
 https://jeroenmols.com/blog/2016/08/03/copyright/<br/>
 https://choosealicense.com/<br/>
