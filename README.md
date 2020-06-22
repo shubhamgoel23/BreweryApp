@@ -97,6 +97,16 @@ https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot<br/>
 # LGTM
 https://lgtm.com/<br/>
 
+# spring security
+https://github.com/Baeldung/spring-security-oauth<br/>
+https://www.baeldung.com/security-spring<br/>
+
+# spring testing
+https://github.com/testcontainers/testcontainers-spring-boot<br/>
+https://dzone.com/articles/advanced-functional-testing-in-spring-boot-by-usin<br/>
+http://rest-assured.io/<br/>
+https://www.testcontainers.org/<br/>
+
 
 # owasp dependency track and dependecy check for finding vulnerbilities
 https://nvd.nist.gov/
