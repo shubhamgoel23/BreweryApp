@@ -90,6 +90,7 @@ https://www.javacodegeeks.com/2019/04/microservices-for-java-developers-security
 https://www.springboottutorial.com/web-application-security-owasp-top-ten<br/>
 https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools<br/>
 
+
 # Snyk 
 https://app.snyk.io/signup<br/>
 https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot<br/>
@@ -106,6 +107,8 @@ https://github.com/testcontainers/testcontainers-spring-boot<br/>
 https://dzone.com/articles/advanced-functional-testing-in-spring-boot-by-usin<br/>
 http://rest-assured.io/<br/>
 https://www.testcontainers.org/<br/>
+https://mkyong.com/spring-boot/spring-rest-integration-test-example/<br/>
+https://www.baeldung.com/integration-testing-in-spring<br/>
 
 
 # owasp dependency track and dependecy check for finding vulnerbilities
